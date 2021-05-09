@@ -1,0 +1,18 @@
+		//HashMap is a Class which implements Map Interface.
+		//HashMap stores the Values on the Basis of Key and Value Pair.
+		//It contains only and only Unique Elements.
+		//It may have One Null Key and Multiple Null Values.
+		//It maintains No Order.
+		//Put method is used to add Elements into HashMap.
+		
+		//HashMap is Non-Synchronized and It is Not Thread Safe.
+		//It means if it is used in Multi-Threading Environment.
+		//If 5 Threads are Running on then HashMap object can be accessed by all the Threads.
+		//So the Performance of the HashMap will be Increased Automatically.
+		
+		//Fail-Fast Condition <<>> Concurrent Modification Execution.
+		//When One Thread Performing an action on any HashMap Object like addition or removal
+		//At the Same time another Thread will try to Perform an Action.
+		//In Such Cases we get above Exception.
+		
+		//We use HashMap for Multi-Threading Application where we want to Improve the Performance.

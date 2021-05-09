@@ -1,0 +1,8 @@
+		//HashTable stores the Values on the Basis of Key and Value Pair.
+		//HashTable is similar to HashMap.
+		//HashTable is Synchronized and It is Thread Safe.
+		//One Thread can access Only one HashTable Object at a Time.
+		//So, The Performance of the Application will be Slow.
+		//Key will be stored in the Form of Object --> HashCode --> Value.
+		//Put method is used to add Data into HashTable.
+		//Null Keys and Null Values are not Allowed in HashTable.
