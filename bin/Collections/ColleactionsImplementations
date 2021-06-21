@@ -1,0 +1,31 @@
+Q: What are Java collections? 
+
+
+The Java collections framework is a collection of interfaces and classes  which helps in stroing and processing the data efficiently.This framework has several useful classes which have tons of useful functions which makes a programer task super easy.
+
+1.List
+A List is an ordered collection(sometimes called a sequence).Lists may contain duplicate elements.below are classes implement List Interface.
+
+ArrayList
+LinkedList
+Vector
+
+2.Set
+
+A Set is a collection that cannot contain duplicate elements.
+however it makes no guarantees concerninig the order of iteration.
+Below are classes implement List Interface.
+
+HashSet
+LinkedHashSet
+TreeSet
+
+
+3.Map
+
+A Map is an  Object that maps Keys to Values.A map cannot contain duplicate keys.
+Below are main implementations of Map interfaces.
+
+HashMap
+TreeMap
+LinkedHashMap
